@@ -40,7 +40,7 @@ The included sample dataset contains weather measurements with the following fie
 - `wind_kmh` — wind speed in kilometers per hour
 - `condition` — weather condition
 
-I sourced this data from howtocsv.com.
+I sourced this data from howtocsv.com. It is generated from a seasonal model. It behaves like real weather but is not measured from any station.
 
 ## Design Goals
 

@@ -1,0 +1,735 @@
+date,city,temp_c,humidity,precipitation_mm,wind_kmh,condition
+2026-01-01,Chicago,8.4,43,7.5,10.6,Drizzle
+2026-01-01,Miami,24.1,45,0.0,34.3,Clear
+2026-01-01,Denver,13.5,49,0.0,4.1,Partly Cloudy
+2026-01-01,Seattle,9.3,93,0.0,10.7,Partly Cloudy
+2026-01-01,Raleigh,11.6,75,3.2,13.1,Drizzle
+2026-01-01,San Francisco,14.5,71,0.0,16.6,Partly Cloudy
+2026-01-01,Los Angeles,18.4,61,0.0,9.9,Partly Cloudy
+2026-01-01,Phoenix,20.3,24,0.0,9.0,Clear
+2026-01-02,Chicago,12.1,88,1.0,31.8,Storm
+2026-01-02,Miami,25.1,57,0.0,22.7,Partly Cloudy
+2026-01-02,Denver,13.2,64,19.1,6.3,Storm
+2026-01-02,Seattle,10.1,74,0.0,34.3,Partly Cloudy
+2026-01-02,Raleigh,7.7,79,20.8,17.8,Rain
+2026-01-02,San Francisco,11.2,73,0.0,12.5,Partly Cloudy
+2026-01-02,Los Angeles,16.5,81,0.0,4.0,Cloudy
+2026-01-02,Phoenix,11.9,29,0.0,15.9,Clear
+2026-01-03,Chicago,8.9,77,0.0,4.8,Partly Cloudy
+2026-01-03,Miami,24.3,49,0.0,31.0,Clear
+2026-01-03,Denver,13.5,63,0.0,24.4,Partly Cloudy
+2026-01-03,Seattle,9.6,80,0.0,22.5,Partly Cloudy
+2026-01-03,Raleigh,13.5,68,0.0,19.4,Partly Cloudy
+2026-01-03,San Francisco,14.6,72,0.0,17.3,Partly Cloudy
+2026-01-03,Los Angeles,18.6,60,0.0,14.8,Partly Cloudy
+2026-01-03,Phoenix,12.3,31,0.0,12.5,Clear
+2026-01-04,Chicago,11.2,59,0.0,27.2,Cloudy
+2026-01-04,Miami,26.9,87,0.0,6.3,Clear
+2026-01-04,Denver,13.8,57,7.5,10.1,Rain
+2026-01-04,Seattle,12.4,72,12.7,11.1,Rain
+2026-01-04,Raleigh,18.1,74,0.0,13.5,Partly Cloudy
+2026-01-04,San Francisco,11.4,65,0.0,24.3,Partly Cloudy
+2026-01-04,Los Angeles,15.9,65,8.9,10.5,Rain
+2026-01-04,Phoenix,13.5,40,0.0,13.8,Clear
+2026-01-05,Chicago,9.0,61,0.0,30.2,Cloudy
+2026-01-05,Miami,24.9,82,0.0,14.4,Clear
+2026-01-05,Denver,10.4,56,0.0,26.7,Partly Cloudy
+2026-01-05,Seattle,12.9,40,0.0,20.4,Clear
+2026-01-05,Raleigh,10.0,64,0.0,14.0,Partly Cloudy
+2026-01-05,San Francisco,12.3,74,0.0,18.2,Partly Cloudy
+2026-01-05,Los Angeles,22.5,57,0.0,16.7,Clear
+2026-01-05,Phoenix,14.6,40,0.0,4.7,Clear
+2026-01-06,Chicago,9.6,55,23.9,9.7,Storm
+2026-01-06,Miami,24.8,92,0.0,7.7,Partly Cloudy
+2026-01-06,Denver,11.1,56,0.0,13.8,Cloudy
+2026-01-06,Seattle,12.2,50,0.0,25.4,Cloudy
+2026-01-06,Raleigh,18.3,79,0.0,13.6,Cloudy
+2026-01-06,San Francisco,9.6,83,0.0,22.3,Cloudy
+2026-01-06,Los Angeles,12.3,51,0.0,1.0,Clear
+2026-01-06,Phoenix,11.6,20,0.0,19.6,Clear
+2026-01-07,Chicago,8.5,59,0.0,3.4,Cloudy
+2026-01-07,Miami,29.7,41,0.0,23.6,Cloudy
+2026-01-07,Denver,13.1,50,16.2,8.5,Drizzle
+2026-01-07,Seattle,14.3,70,0.0,32.7,Cloudy
+2026-01-07,Raleigh,7.5,79,13.1,19.1,Drizzle
+2026-01-07,San Francisco,11.8,79,12.2,20.3,Rain
+2026-01-07,Los Angeles,12.9,54,6.1,12.0,Rain
+2026-01-07,Phoenix,18.8,48,0.0,8.9,Clear
+2026-01-08,Chicago,8.3,69,0.0,23.5,Partly Cloudy
+2026-01-08,Miami,25.0,53,3.7,33.4,Storm
+2026-01-08,Denver,9.6,41,0.0,9.0,Partly Cloudy
+2026-01-08,Seattle,14.5,90,0.0,33.1,Cloudy
+2026-01-08,Raleigh,10.1,61,0.0,12.8,Partly Cloudy
+2026-01-08,San Francisco,12.4,76,0.0,24.8,Partly Cloudy
+2026-01-08,Los Angeles,20.9,61,0.0,8.1,Partly Cloudy
+2026-01-08,Phoenix,19.0,28,0.0,8.9,Clear
+2026-01-09,Chicago,10.0,74,0.0,10.5,Clear
+2026-01-09,Miami,30.1,55,14.9,34.8,Drizzle
+2026-01-09,Denver,10.2,82,0.0,37.3,Partly Cloudy
+2026-01-09,Seattle,14.9,55,0.0,32.8,Partly Cloudy
+2026-01-09,Raleigh,11.9,74,11.1,13.8,Rain
+2026-01-09,San Francisco,9.5,77,0.0,14.8,Partly Cloudy
+2026-01-09,Los Angeles,15.4,68,0.0,13.4,Partly Cloudy
+2026-01-09,Phoenix,20.0,22,0.0,10.4,Clear
+2026-01-10,Chicago,8.1,60,0.0,35.5,Partly Cloudy
+2026-01-10,Miami,26.1,61,14.6,22.9,Drizzle
+2026-01-10,Denver,11.4,41,0.0,24.7,Cloudy
+2026-01-10,Seattle,15.2,90,0.0,30.6,Clear
+2026-01-10,Raleigh,2.2,78,0.0,21.1,Partly Cloudy
+2026-01-10,San Francisco,10.1,47,0.0,14.8,Clear
+2026-01-10,Los Angeles,15.3,72,0.0,7.0,Partly Cloudy
+2026-01-10,Phoenix,24.0,35,0.0,11.0,Clear
+2026-01-11,Chicago,12.9,70,6.4,4.7,Rain
+2026-01-11,Miami,28.2,87,0.0,17.8,Partly Cloudy
+2026-01-11,Denver,15.3,54,0.0,11.4,Cloudy
+2026-01-11,Seattle,12.6,87,0.0,20.8,Clear
+2026-01-11,Raleigh,3.8,81,0.0,23.5,Cloudy
+2026-01-11,San Francisco,8.1,96,5.4,8.0,Rain
+2026-01-11,Los Angeles,16.5,66,0.0,10.9,Partly Cloudy
+2026-01-11,Phoenix,23.5,37,0.0,7.1,Clear
+2026-01-12,Chicago,12.5,83,11.0,11.8,Storm
+2026-01-12,Miami,28.7,77,18.1,27.1,Drizzle
+2026-01-12,Denver,13.0,62,0.0,14.0,Cloudy
+2026-01-12,Seattle,12.3,92,7.6,18.1,Drizzle
+2026-01-12,Raleigh,17.6,67,0.0,1.0,Partly Cloudy
+2026-01-12,San Francisco,13.3,91,0.0,15.6,Cloudy
+2026-01-12,Los Angeles,18.2,73,0.0,13.4,Partly Cloudy
+2026-01-12,Phoenix,15.6,36,0.0,7.7,Clear
+2026-01-13,Chicago,10.2,81,3.3,13.0,Storm
+2026-01-13,Miami,25.8,53,23.0,27.3,Rain
+2026-01-13,Denver,12.1,42,0.0,31.1,Cloudy
+2026-01-13,Seattle,16.8,45,0.0,10.4,Cloudy
+2026-01-13,Raleigh,9.0,62,0.0,14.5,Partly Cloudy
+2026-01-13,San Francisco,11.4,87,0.0,19.1,Cloudy
+2026-01-13,Los Angeles,18.5,74,0.0,12.0,Partly Cloudy
+2026-01-13,Phoenix,22.5,21,0.0,11.2,Clear
+2026-01-14,Chicago,8.8,62,9.0,5.4,Storm
+2026-01-14,Miami,31.6,84,11.2,10.2,Storm
+2026-01-14,Denver,15.9,60,0.0,12.5,Partly Cloudy
+2026-01-14,Seattle,13.2,80,9.2,15.5,Storm
+2026-01-14,Raleigh,7.1,64,9.0,15.2,Rain
+2026-01-14,San Francisco,11.4,61,0.0,18.8,Partly Cloudy
+2026-01-14,Los Angeles,18.5,62,0.0,12.2,Partly Cloudy
+2026-01-14,Phoenix,19.5,32,0.0,16.0,Clear
+2026-01-15,Chicago,13.8,81,0.0,27.1,Cloudy
+2026-01-15,Miami,28.3,52,0.0,10.6,Clear
+2026-01-15,Denver,12.3,67,22.7,30.3,Storm
+2026-01-15,Seattle,17.6,94,3.6,7.8,Rain
+2026-01-15,Raleigh,13.7,64,0.0,16.7,Partly Cloudy
+2026-01-15,San Francisco,13.0,58,0.0,21.1,Clear
+2026-01-15,Los Angeles,18.2,69,0.0,15.7,Partly Cloudy
+2026-01-15,Phoenix,14.3,21,0.0,4.7,Clear
+2026-01-16,Chicago,13.1,85,0.0,28.3,Cloudy
+2026-01-16,Miami,31.4,64,0.0,6.7,Partly Cloudy
+2026-01-16,Denver,16.9,68,3.4,9.6,Storm
+2026-01-16,Seattle,14.5,78,0.0,35.0,Clear
+2026-01-16,Raleigh,13.0,55,7.2,5.5,Rain
+2026-01-16,San Francisco,15.7,98,0.0,9.9,Cloudy
+2026-01-16,Los Angeles,18.3,48,0.0,5.3,Clear
+2026-01-16,Phoenix,16.6,51,0.0,3.1,Clear
+2026-01-17,Chicago,13.6,85,0.0,17.5,Partly Cloudy
+2026-01-17,Miami,28.3,55,0.0,11.1,Clear
+2026-01-17,Denver,11.5,66,0.0,25.2,Partly Cloudy
+2026-01-17,Seattle,13.7,61,0.0,5.3,Clear
+2026-01-17,Raleigh,13.0,73,0.0,18.9,Partly Cloudy
+2026-01-17,San Francisco,11.3,77,0.0,23.8,Partly Cloudy
+2026-01-17,Los Angeles,19.0,65,0.0,16.9,Partly Cloudy
+2026-01-17,Phoenix,16.1,36,0.0,28.6,Clear
+2026-01-18,Chicago,12.7,55,0.0,24.9,Cloudy
+2026-01-18,Miami,32.3,79,0.0,15.3,Cloudy
+2026-01-18,Denver,14.7,79,0.0,34.1,Clear
+2026-01-18,Seattle,18.3,95,6.0,28.3,Storm
+2026-01-18,Raleigh,5.4,70,0.0,4.0,Partly Cloudy
+2026-01-18,San Francisco,10.1,95,35.5,26.3,Storm
+2026-01-18,Los Angeles,18.4,57,0.0,11.4,Clear
+2026-01-18,Phoenix,12.8,22,0.0,26.2,Clear
+2026-01-19,Chicago,15.1,54,6.7,22.8,Drizzle
+2026-01-19,Miami,31.7,89,0.0,36.3,Clear
+2026-01-19,Denver,14.2,42,0.0,3.3,Cloudy
+2026-01-19,Seattle,14.2,61,0.0,4.3,Partly Cloudy
+2026-01-19,Raleigh,14.5,98,8.6,21.2,Rain
+2026-01-19,San Francisco,14.1,66,0.0,10.7,Partly Cloudy
+2026-01-19,Los Angeles,19.1,55,0.0,13.8,Clear
+2026-01-19,Phoenix,9.7,52,0.0,11.0,Clear
+2026-01-20,Chicago,11.6,76,22.7,30.5,Storm
+2026-01-20,Miami,27.6,48,0.0,29.8,Clear
+2026-01-20,Denver,12.8,90,0.0,24.1,Partly Cloudy
+2026-01-20,Seattle,17.8,80,0.0,5.3,Cloudy
+2026-01-20,Raleigh,14.0,63,0.0,18.8,Partly Cloudy
+2026-01-20,San Francisco,16.7,73,0.0,14.3,Partly Cloudy
+2026-01-20,Los Angeles,18.7,64,0.0,5.4,Partly Cloudy
+2026-01-20,Phoenix,18.3,41,0.0,10.7,Clear
+2026-01-21,Chicago,14.0,88,0.0,10.0,Cloudy
+2026-01-21,Miami,32.3,44,0.0,37.1,Partly Cloudy
+2026-01-21,Denver,15.3,54,6.4,18.9,Rain
+2026-01-21,Seattle,13.5,71,20.4,27.9,Storm
+2026-01-21,Raleigh,11.7,58,0.0,17.0,Clear
+2026-01-21,San Francisco,16.6,98,5.8,10.3,Drizzle
+2026-01-21,Los Angeles,15.7,47,0.0,5.0,Clear
+2026-01-21,Phoenix,17.1,25,0.0,6.5,Clear
+2026-01-22,Chicago,13.5,42,0.0,31.6,Partly Cloudy
+2026-01-22,Miami,28.3,56,0.0,14.3,Cloudy
+2026-01-22,Denver,16.4,95,0.0,37.8,Cloudy
+2026-01-22,Seattle,18.5,48,0.0,9.7,Partly Cloudy
+2026-01-22,Raleigh,13.2,68,4.7,21.3,Drizzle
+2026-01-22,San Francisco,12.6,89,2.8,11.6,Drizzle
+2026-01-22,Los Angeles,17.8,56,0.0,12.9,Clear
+2026-01-22,Phoenix,16.0,28,0.0,16.1,Clear
+2026-01-23,Chicago,13.2,81,0.0,4.2,Clear
+2026-01-23,Miami,29.9,72,0.0,8.5,Clear
+2026-01-23,Denver,17.0,88,0.0,17.9,Partly Cloudy
+2026-01-23,Seattle,14.9,72,0.0,7.7,Partly Cloudy
+2026-01-23,Raleigh,10.1,79,0.0,19.6,Cloudy
+2026-01-23,San Francisco,13.0,80,0.0,9.9,Cloudy
+2026-01-23,Los Angeles,14.7,64,0.0,10.3,Partly Cloudy
+2026-01-23,Phoenix,16.7,26,0.0,12.6,Clear
+2026-01-24,Chicago,12.9,85,0.0,9.6,Clear
+2026-01-24,Miami,32.0,48,21.2,35.2,Rain
+2026-01-24,Denver,14.2,46,1.9,16.0,Drizzle
+2026-01-24,Seattle,16.0,68,10.3,22.6,Rain
+2026-01-24,Raleigh,13.8,85,0.0,4.5,Cloudy
+2026-01-24,San Francisco,13.4,89,26.0,22.3,Storm
+2026-01-24,Los Angeles,15.6,57,0.0,19.4,Clear
+2026-01-24,Phoenix,12.3,34,0.0,12.8,Clear
+2026-01-25,Chicago,14.9,86,0.0,12.2,Partly Cloudy
+2026-01-25,Miami,27.9,79,0.0,20.2,Clear
+2026-01-25,Denver,17.9,50,0.0,10.8,Cloudy
+2026-01-25,Seattle,19.7,86,8.2,17.8,Drizzle
+2026-01-25,Raleigh,7.3,75,0.0,17.5,Partly Cloudy
+2026-01-25,San Francisco,12.8,75,3.5,20.6,Drizzle
+2026-01-25,Los Angeles,15.8,61,0.0,14.2,Partly Cloudy
+2026-01-25,Phoenix,14.3,21,0.0,18.9,Clear
+2026-01-26,Chicago,14.3,59,14.8,10.1,Drizzle
+2026-01-26,Miami,29.7,66,0.0,27.2,Partly Cloudy
+2026-01-26,Denver,16.2,70,0.0,15.9,Partly Cloudy
+2026-01-26,Seattle,16.4,92,12.3,30.7,Rain
+2026-01-26,Raleigh,10.1,51,0.0,15.0,Clear
+2026-01-26,San Francisco,6.7,83,0.0,18.9,Cloudy
+2026-01-26,Los Angeles,18.1,62,0.0,10.1,Partly Cloudy
+2026-01-26,Phoenix,18.0,29,0.0,17.8,Clear
+2026-01-27,Chicago,17.0,50,0.2,29.2,Rain
+2026-01-27,Miami,32.3,53,10.7,13.3,Drizzle
+2026-01-27,Denver,14.5,87,0.0,7.9,Cloudy
+2026-01-27,Seattle,14.9,92,0.0,32.6,Cloudy
+2026-01-27,Raleigh,17.0,80,5.3,12.5,Rain
+2026-01-27,San Francisco,11.6,70,0.0,1.0,Partly Cloudy
+2026-01-27,Los Angeles,15.2,65,0.0,16.5,Partly Cloudy
+2026-01-27,Phoenix,15.8,41,0.0,1.0,Clear
+2026-01-28,Chicago,13.9,47,0.0,32.3,Cloudy
+2026-01-28,Miami,32.4,41,16.6,31.4,Rain
+2026-01-28,Denver,18.8,79,0.0,8.9,Cloudy
+2026-01-28,Seattle,19.2,90,0.0,19.6,Cloudy
+2026-01-28,Raleigh,14.9,69,0.0,14.0,Partly Cloudy
+2026-01-28,San Francisco,13.5,72,11.0,15.2,Rain
+2026-01-28,Los Angeles,18.1,52,0.0,18.5,Clear
+2026-01-28,Phoenix,15.0,41,0.0,13.9,Clear
+2026-01-29,Chicago,16.4,56,8.7,28.8,Rain
+2026-01-29,Miami,34.5,77,0.0,7.6,Clear
+2026-01-29,Denver,15.0,62,0.0,9.8,Clear
+2026-01-29,Seattle,18.1,62,16.9,32.6,Drizzle
+2026-01-29,Raleigh,13.6,75,7.8,11.9,Rain
+2026-01-29,San Francisco,7.4,89,0.0,15.8,Cloudy
+2026-01-29,Los Angeles,16.9,51,0.0,9.2,Clear
+2026-01-29,Phoenix,23.9,20,0.0,3.4,Clear
+2026-01-30,Chicago,13.7,87,0.0,33.5,Cloudy
+2026-01-30,Miami,34.2,43,20.9,35.4,Drizzle
+2026-01-30,Denver,16.0,61,0.0,9.0,Partly Cloudy
+2026-01-30,Seattle,20.6,94,0.0,25.8,Cloudy
+2026-01-30,Raleigh,10.9,80,10.1,15.0,Drizzle
+2026-01-30,San Francisco,12.8,76,0.0,10.2,Partly Cloudy
+2026-01-30,Los Angeles,17.0,64,0.0,18.4,Partly Cloudy
+2026-01-30,Phoenix,19.4,20,0.0,8.7,Clear
+2026-01-31,Chicago,14.8,81,0.0,32.2,Cloudy
+2026-01-31,Miami,34.0,43,0.0,4.7,Cloudy
+2026-01-31,Denver,19.6,90,0.0,34.8,Cloudy
+2026-01-31,Seattle,19.3,71,0.0,22.5,Cloudy
+2026-01-31,Raleigh,10.7,69,0.0,12.6,Partly Cloudy
+2026-01-31,San Francisco,7.7,79,0.0,5.5,Cloudy
+2026-01-31,Los Angeles,15.3,68,0.0,9.4,Partly Cloudy
+2026-01-31,Phoenix,15.5,29,0.0,17.7,Clear
+2026-02-01,Chicago,13.9,88,1.3,12.3,Drizzle
+2026-02-01,Miami,29.6,64,0.0,31.9,Partly Cloudy
+2026-02-01,Denver,15.6,45,0.0,23.4,Partly Cloudy
+2026-02-01,Seattle,16.1,43,22.6,3.5,Drizzle
+2026-02-01,Raleigh,4.5,79,0.0,11.3,Cloudy
+2026-02-01,San Francisco,10.9,76,0.0,15.1,Partly Cloudy
+2026-02-01,Los Angeles,17.1,68,0.0,6.2,Partly Cloudy
+2026-02-01,Phoenix,25.6,28,0.0,6.5,Clear
+2026-02-02,Chicago,16.1,66,0.0,28.2,Clear
+2026-02-02,Miami,34.1,59,0.0,34.8,Clear
+2026-02-02,Denver,14.9,57,0.0,32.1,Clear
+2026-02-02,Seattle,20.8,68,4.6,5.0,Drizzle
+2026-02-02,Raleigh,2.6,72,0.0,11.5,Partly Cloudy
+2026-02-02,San Francisco,15.9,97,17.5,30.1,Storm
+2026-02-02,Los Angeles,18.7,69,0.0,20.3,Partly Cloudy
+2026-02-02,Phoenix,24.3,50,0.0,12.9,Clear
+2026-02-03,Chicago,18.2,92,0.0,3.1,Cloudy
+2026-02-03,Miami,34.8,93,0.0,29.7,Clear
+2026-02-03,Denver,19.9,93,8.4,37.2,Drizzle
+2026-02-03,Seattle,16.5,64,0.0,33.6,Cloudy
+2026-02-03,Raleigh,14.7,57,0.0,20.8,Clear
+2026-02-03,San Francisco,13.0,77,0.0,12.2,Partly Cloudy
+2026-02-03,Los Angeles,19.5,59,0.0,7.3,Clear
+2026-02-03,Phoenix,17.5,20,0.0,10.5,Clear
+2026-02-04,Chicago,14.7,58,0.0,32.4,Clear
+2026-02-04,Miami,31.1,40,0.0,3.5,Partly Cloudy
+2026-02-04,Denver,16.3,77,12.1,18.0,Storm
+2026-02-04,Seattle,19.2,65,0.0,34.2,Partly Cloudy
+2026-02-04,Raleigh,12.9,66,0.0,19.4,Partly Cloudy
+2026-02-04,San Francisco,15.7,68,0.0,18.8,Partly Cloudy
+2026-02-04,Los Angeles,16.6,64,0.0,19.3,Partly Cloudy
+2026-02-04,Phoenix,22.1,37,0.0,11.3,Clear
+2026-02-05,Chicago,17.0,61,0.0,9.4,Clear
+2026-02-05,Miami,34.3,81,0.0,22.5,Clear
+2026-02-05,Denver,15.7,41,0.0,20.6,Clear
+2026-02-05,Seattle,19.0,87,0.0,21.0,Cloudy
+2026-02-05,Raleigh,13.3,65,2.8,13.1,Drizzle
+2026-02-05,San Francisco,13.3,98,0.0,19.5,Cloudy
+2026-02-05,Los Angeles,15.9,77,10.7,16.3,Drizzle
+2026-02-05,Phoenix,20.3,20,0.0,15.7,Clear
+2026-02-06,Chicago,13.2,90,0.0,26.1,Cloudy
+2026-02-06,Miami,31.1,73,21.3,22.9,Drizzle
+2026-02-06,Denver,18.9,69,11.1,35.7,Drizzle
+2026-02-06,Seattle,16.7,68,0.0,11.1,Cloudy
+2026-02-06,Raleigh,15.0,86,0.0,4.9,Cloudy
+2026-02-06,San Francisco,12.8,64,0.0,15.5,Partly Cloudy
+2026-02-06,Los Angeles,21.6,78,0.0,10.8,Partly Cloudy
+2026-02-06,Phoenix,21.0,20,0.0,11.2,Clear
+2026-02-07,Chicago,15.6,49,15.7,29.5,Drizzle
+2026-02-07,Miami,34.2,45,0.0,27.5,Cloudy
+2026-02-07,Denver,15.3,69,0.0,10.8,Cloudy
+2026-02-07,Seattle,21.6,76,0.0,11.6,Cloudy
+2026-02-07,Raleigh,5.0,74,0.0,16.9,Partly Cloudy
+2026-02-07,San Francisco,12.3,77,0.0,19.4,Partly Cloudy
+2026-02-07,Los Angeles,17.1,52,0.0,16.5,Clear
+2026-02-07,Phoenix,17.7,36,0.0,8.8,Clear
+2026-02-08,Chicago,18.3,76,0.0,36.9,Cloudy
+2026-02-08,Miami,34.9,49,3.2,32.2,Rain
+2026-02-08,Denver,19.2,82,0.0,16.6,Partly Cloudy
+2026-02-08,Seattle,21.3,82,0.0,37.8,Cloudy
+2026-02-08,Raleigh,13.4,59,0.0,15.4,Clear
+2026-02-08,San Francisco,14.8,98,0.0,16.4,Cloudy
+2026-02-08,Los Angeles,18.2,66,0.0,12.0,Partly Cloudy
+2026-02-08,Phoenix,17.1,38,5.6,6.1,Rain
+2026-02-09,Chicago,18.9,58,0.0,17.5,Clear
+2026-02-09,Miami,35.5,80,0.0,15.1,Partly Cloudy
+2026-02-09,Denver,15.7,75,0.0,6.6,Clear
+2026-02-09,Seattle,20.8,57,0.0,18.5,Clear
+2026-02-09,Raleigh,14.8,61,2.2,10.8,Drizzle
+2026-02-09,San Francisco,14.6,54,0.0,17.5,Clear
+2026-02-09,Los Angeles,15.1,53,0.0,18.8,Clear
+2026-02-09,Phoenix,17.2,26,0.0,1.7,Clear
+2026-02-10,Chicago,18.4,88,19.9,6.7,Storm
+2026-02-10,Miami,32.4,57,0.0,23.4,Partly Cloudy
+2026-02-10,Denver,16.0,46,0.0,26.0,Partly Cloudy
+2026-02-10,Seattle,18.1,88,0.0,8.1,Clear
+2026-02-10,Raleigh,18.5,56,0.0,8.6,Clear
+2026-02-10,San Francisco,12.2,78,0.0,8.9,Partly Cloudy
+2026-02-10,Los Angeles,17.1,76,6.8,21.5,Rain
+2026-02-10,Phoenix,21.9,38,0.0,7.3,Clear
+2026-02-11,Chicago,15.6,40,0.0,6.5,Clear
+2026-02-11,Miami,31.0,59,16.9,8.9,Storm
+2026-02-11,Denver,18.1,48,2.8,4.1,Drizzle
+2026-02-11,Seattle,20.7,73,0.0,34.9,Cloudy
+2026-02-11,Raleigh,18.0,67,0.0,6.1,Partly Cloudy
+2026-02-11,San Francisco,12.4,73,0.0,23.1,Partly Cloudy
+2026-02-11,Los Angeles,16.7,59,0.0,9.6,Clear
+2026-02-11,Phoenix,21.6,29,0.0,12.7,Clear
+2026-02-12,Chicago,16.1,89,9.5,33.5,Drizzle
+2026-02-12,Miami,34.8,40,0.0,20.6,Clear
+2026-02-12,Denver,19.7,72,0.0,4.9,Partly Cloudy
+2026-02-12,Seattle,17.1,71,0.0,9.6,Clear
+2026-02-12,Raleigh,19.0,53,0.0,19.5,Clear
+2026-02-12,San Francisco,11.6,65,0.0,2.9,Partly Cloudy
+2026-02-12,Los Angeles,16.4,51,0.0,8.9,Clear
+2026-02-12,Phoenix,20.2,55,0.0,12.1,Clear
+2026-02-13,Chicago,17.3,64,21.9,27.8,Storm
+2026-02-13,Miami,35.9,88,0.0,19.5,Partly Cloudy
+2026-02-13,Denver,19.7,53,0.0,7.8,Clear
+2026-02-13,Seattle,20.7,90,0.0,23.3,Cloudy
+2026-02-13,Raleigh,8.4,93,18.0,27.0,Storm
+2026-02-13,San Francisco,9.8,77,0.0,11.6,Partly Cloudy
+2026-02-13,Los Angeles,18.6,71,0.0,8.6,Partly Cloudy
+2026-02-13,Phoenix,29.1,44,0.0,15.6,Clear
+2026-02-14,Chicago,18.4,69,7.5,25.3,Rain
+2026-02-14,Miami,34.5,43,9.8,8.2,Drizzle
+2026-02-14,Denver,17.3,70,6.0,11.6,Drizzle
+2026-02-14,Seattle,20.8,51,0.0,17.0,Partly Cloudy
+2026-02-14,Raleigh,17.5,76,0.0,19.3,Partly Cloudy
+2026-02-14,San Francisco,13.9,77,0.0,13.9,Partly Cloudy
+2026-02-14,Los Angeles,15.8,57,0.0,9.0,Clear
+2026-02-14,Phoenix,17.6,47,0.0,16.2,Clear
+2026-02-15,Chicago,19.3,60,0.0,4.7,Cloudy
+2026-02-15,Miami,37.2,89,5.4,36.7,Rain
+2026-02-15,Denver,22.0,53,0.0,37.6,Cloudy
+2026-02-15,Seattle,17.8,61,0.0,27.8,Partly Cloudy
+2026-02-15,Raleigh,8.5,72,2.1,4.6,Drizzle
+2026-02-15,San Francisco,8.4,66,0.0,16.2,Partly Cloudy
+2026-02-15,Los Angeles,19.0,49,0.0,5.5,Clear
+2026-02-15,Phoenix,23.3,28,0.0,11.4,Clear
+2026-02-16,Chicago,14.8,67,0.0,36.0,Clear
+2026-02-16,Miami,36.6,83,0.0,23.9,Partly Cloudy
+2026-02-16,Denver,21.4,45,0.0,19.4,Partly Cloudy
+2026-02-16,Seattle,23.3,41,0.0,32.5,Partly Cloudy
+2026-02-16,Raleigh,18.0,63,0.0,19.1,Partly Cloudy
+2026-02-16,San Francisco,9.4,77,0.0,5.5,Partly Cloudy
+2026-02-16,Los Angeles,23.6,65,0.0,1.0,Partly Cloudy
+2026-02-16,Phoenix,20.9,37,0.0,20.5,Clear
+2026-02-17,Chicago,17.7,86,0.0,36.1,Cloudy
+2026-02-17,Miami,37.6,52,0.0,33.7,Cloudy
+2026-02-17,Denver,20.6,59,0.0,37.5,Clear
+2026-02-17,Seattle,19.5,66,0.0,8.5,Clear
+2026-02-17,Raleigh,14.8,65,0.0,12.7,Partly Cloudy
+2026-02-17,San Francisco,11.0,71,0.0,8.1,Partly Cloudy
+2026-02-17,Los Angeles,21.5,58,0.0,12.8,Clear
+2026-02-17,Phoenix,22.8,28,0.0,8.5,Clear
+2026-02-18,Chicago,20.1,91,0.0,23.1,Partly Cloudy
+2026-02-18,Miami,33.6,95,3.3,32.8,Storm
+2026-02-18,Denver,18.8,81,0.0,21.6,Partly Cloudy
+2026-02-18,Seattle,19.5,48,1.7,34.7,Drizzle
+2026-02-18,Raleigh,10.9,85,0.0,14.1,Cloudy
+2026-02-18,San Francisco,15.9,86,0.0,17.9,Cloudy
+2026-02-18,Los Angeles,23.1,73,0.0,16.1,Partly Cloudy
+2026-02-18,Phoenix,26.4,20,0.0,15.9,Clear
+2026-02-19,Chicago,16.6,49,17.4,9.8,Storm
+2026-02-19,Miami,37.8,45,12.7,37.3,Drizzle
+2026-02-19,Denver,21.4,49,7.4,26.3,Drizzle
+2026-02-19,Seattle,19.5,68,16.8,32.8,Rain
+2026-02-19,Raleigh,17.0,71,0.0,1.0,Partly Cloudy
+2026-02-19,San Francisco,15.6,69,0.0,13.0,Partly Cloudy
+2026-02-19,Los Angeles,17.8,51,0.0,14.7,Clear
+2026-02-19,Phoenix,24.4,38,0.0,22.2,Clear
+2026-02-20,Chicago,19.8,58,0.0,17.4,Cloudy
+2026-02-20,Miami,37.8,42,0.0,13.2,Partly Cloudy
+2026-02-20,Denver,17.5,93,14.5,33.3,Drizzle
+2026-02-20,Seattle,23.7,95,18.6,30.7,Rain
+2026-02-20,Raleigh,6.9,65,0.0,25.9,Partly Cloudy
+2026-02-20,San Francisco,18.4,79,2.2,1.0,Drizzle
+2026-02-20,Los Angeles,19.0,54,0.0,10.2,Clear
+2026-02-20,Phoenix,22.0,31,0.0,20.0,Clear
+2026-02-21,Chicago,21.0,88,0.0,27.0,Cloudy
+2026-02-21,Miami,34.5,65,0.0,27.7,Cloudy
+2026-02-21,Denver,21.9,73,0.0,24.9,Cloudy
+2026-02-21,Seattle,23.1,45,0.0,14.7,Cloudy
+2026-02-21,Raleigh,14.3,76,5.4,13.7,Rain
+2026-02-21,San Francisco,18.7,69,0.0,13.5,Partly Cloudy
+2026-02-21,Los Angeles,20.2,76,0.0,11.3,Partly Cloudy
+2026-02-21,Phoenix,20.0,31,0.0,5.0,Clear
+2026-02-22,Chicago,18.0,43,1.4,23.2,Rain
+2026-02-22,Miami,35.0,82,0.0,31.6,Clear
+2026-02-22,Denver,21.3,92,13.9,26.0,Storm
+2026-02-22,Seattle,22.3,80,0.0,28.6,Partly Cloudy
+2026-02-22,Raleigh,16.8,80,0.0,18.7,Cloudy
+2026-02-22,San Francisco,10.2,76,0.0,14.2,Partly Cloudy
+2026-02-22,Los Angeles,14.4,72,0.0,19.6,Partly Cloudy
+2026-02-22,Phoenix,19.0,46,0.0,19.3,Clear
+2026-02-23,Chicago,20.6,57,21.5,29.2,Drizzle
+2026-02-23,Miami,38.3,88,0.0,8.8,Partly Cloudy
+2026-02-23,Denver,22.2,93,10.2,24.4,Storm
+2026-02-23,Seattle,20.7,93,0.0,34.2,Cloudy
+2026-02-23,Raleigh,21.8,68,0.0,2.6,Partly Cloudy
+2026-02-23,San Francisco,16.3,75,0.0,15.3,Partly Cloudy
+2026-02-23,Los Angeles,18.0,60,0.0,12.5,Partly Cloudy
+2026-02-23,Phoenix,17.5,46,3.3,17.9,Drizzle
+2026-02-24,Chicago,18.8,93,0.0,34.9,Partly Cloudy
+2026-02-24,Miami,37.1,66,0.0,24.8,Clear
+2026-02-24,Denver,21.1,54,0.0,29.8,Partly Cloudy
+2026-02-24,Seattle,19.3,85,0.0,30.8,Partly Cloudy
+2026-02-24,Raleigh,13.6,60,0.0,6.5,Partly Cloudy
+2026-02-24,San Francisco,16.1,79,0.0,20.2,Cloudy
+2026-02-24,Los Angeles,18.8,66,2.3,16.1,Drizzle
+2026-02-24,Phoenix,27.2,27,0.0,19.2,Clear
+2026-02-25,Chicago,16.8,95,23.3,15.2,Drizzle
+2026-02-25,Miami,35.1,47,9.6,12.7,Storm
+2026-02-25,Denver,20.1,51,0.0,4.9,Clear
+2026-02-25,Seattle,23.8,41,19.4,29.7,Drizzle
+2026-02-25,Raleigh,14.1,72,8.7,13.7,Rain
+2026-02-25,San Francisco,17.2,75,0.0,12.3,Partly Cloudy
+2026-02-25,Los Angeles,20.1,63,0.0,8.6,Partly Cloudy
+2026-02-25,Phoenix,25.5,20,0.0,13.8,Clear
+2026-02-26,Chicago,18.9,81,19.9,30.7,Storm
+2026-02-26,Miami,36.1,78,0.0,29.7,Clear
+2026-02-26,Denver,23.7,89,0.0,8.2,Cloudy
+2026-02-26,Seattle,21.7,62,0.0,6.6,Clear
+2026-02-26,Raleigh,15.6,72,8.1,1.0,Rain
+2026-02-26,San Francisco,11.8,65,0.0,18.1,Partly Cloudy
+2026-02-26,Los Angeles,18.2,64,0.0,15.5,Partly Cloudy
+2026-02-26,Phoenix,23.9,32,0.0,10.0,Clear
+2026-02-27,Chicago,19.5,44,7.5,32.2,Storm
+2026-02-27,Miami,38.1,63,0.0,7.0,Clear
+2026-02-27,Denver,20.2,78,10.8,33.6,Drizzle
+2026-02-27,Seattle,19.3,82,0.0,15.5,Partly Cloudy
+2026-02-27,Raleigh,24.4,81,0.0,19.2,Cloudy
+2026-02-27,San Francisco,14.8,68,5.6,14.7,Drizzle
+2026-02-27,Los Angeles,15.4,54,0.0,5.9,Clear
+2026-02-27,Phoenix,18.4,63,0.0,14.8,Partly Cloudy
+2026-02-28,Chicago,20.4,77,0.0,4.7,Cloudy
+2026-02-28,Miami,36.0,70,0.0,13.6,Cloudy
+2026-02-28,Denver,23.3,68,0.0,26.4,Partly Cloudy
+2026-02-28,Seattle,23.8,57,11.4,22.2,Rain
+2026-02-28,Raleigh,13.4,81,0.0,12.9,Cloudy
+2026-02-28,San Francisco,16.5,85,8.1,15.5,Drizzle
+2026-02-28,Los Angeles,21.5,57,0.0,11.3,Clear
+2026-02-28,Phoenix,21.1,22,0.0,17.4,Clear
+2026-03-01,Chicago,17.5,70,23.8,19.8,Rain
+2026-03-01,Miami,37.5,61,17.9,11.6,Drizzle
+2026-03-01,Denver,21.6,74,2.0,12.2,Rain
+2026-03-01,Seattle,21.4,54,19.2,36.5,Drizzle
+2026-03-01,Raleigh,15.6,70,0.0,18.8,Partly Cloudy
+2026-03-01,San Francisco,12.1,73,11.6,26.3,Drizzle
+2026-03-01,Los Angeles,17.5,54,0.0,8.0,Clear
+2026-03-01,Phoenix,22.4,35,0.0,13.1,Clear
+2026-03-02,Chicago,20.4,65,0.0,30.5,Cloudy
+2026-03-02,Miami,34.5,56,0.0,34.1,Partly Cloudy
+2026-03-02,Denver,24.1,90,0.0,37.8,Clear
+2026-03-02,Seattle,24.2,70,0.0,10.7,Cloudy
+2026-03-02,Raleigh,19.6,64,8.6,18.8,Rain
+2026-03-02,San Francisco,9.9,80,1.1,15.4,Drizzle
+2026-03-02,Los Angeles,20.3,72,0.0,14.3,Partly Cloudy
+2026-03-02,Phoenix,22.5,33,0.0,11.7,Clear
+2026-03-03,Chicago,19.6,49,13.3,4.3,Rain
+2026-03-03,Miami,38.9,94,10.5,37.7,Drizzle
+2026-03-03,Denver,24.0,53,0.0,31.0,Cloudy
+2026-03-03,Seattle,21.5,63,0.0,17.7,Cloudy
+2026-03-03,Raleigh,12.3,54,0.0,15.1,Clear
+2026-03-03,San Francisco,11.4,86,11.4,20.0,Drizzle
+2026-03-03,Los Angeles,16.6,68,0.0,11.6,Partly Cloudy
+2026-03-03,Phoenix,24.9,47,0.0,6.6,Clear
+2026-03-04,Chicago,20.3,40,19.1,11.3,Storm
+2026-03-04,Miami,35.5,45,2.4,5.3,Drizzle
+2026-03-04,Denver,20.1,88,0.0,29.5,Partly Cloudy
+2026-03-04,Seattle,22.9,51,0.0,6.8,Cloudy
+2026-03-04,Raleigh,16.5,44,0.0,4.7,Clear
+2026-03-04,San Francisco,14.2,73,0.0,6.0,Partly Cloudy
+2026-03-04,Los Angeles,16.6,64,0.0,19.9,Partly Cloudy
+2026-03-04,Phoenix,27.2,40,0.0,14.8,Clear
+2026-03-05,Chicago,18.8,88,0.0,10.4,Cloudy
+2026-03-05,Miami,35.3,46,0.0,19.5,Clear
+2026-03-05,Denver,21.0,87,3.5,3.0,Rain
+2026-03-05,Seattle,20.0,91,23.5,32.7,Rain
+2026-03-05,Raleigh,9.1,77,7.4,14.8,Rain
+2026-03-05,San Francisco,12.0,84,0.0,10.7,Cloudy
+2026-03-05,Los Angeles,16.6,77,0.0,15.5,Partly Cloudy
+2026-03-05,Phoenix,20.6,30,0.0,8.1,Clear
+2026-03-06,Chicago,22.7,95,0.0,28.4,Clear
+2026-03-06,Miami,38.8,83,0.0,6.6,Partly Cloudy
+2026-03-06,Denver,19.1,42,0.0,29.8,Cloudy
+2026-03-06,Seattle,22.1,77,0.0,32.2,Partly Cloudy
+2026-03-06,Raleigh,15.4,70,0.0,16.5,Partly Cloudy
+2026-03-06,San Francisco,15.5,67,0.0,18.3,Partly Cloudy
+2026-03-06,Los Angeles,19.6,77,0.0,9.1,Partly Cloudy
+2026-03-06,Phoenix,27.1,36,0.0,9.5,Clear
+2026-03-07,Chicago,18.7,47,0.0,13.2,Cloudy
+2026-03-07,Miami,36.0,85,13.3,11.2,Drizzle
+2026-03-07,Denver,20.1,84,22.0,32.3,Rain
+2026-03-07,Seattle,25.5,55,0.0,14.0,Cloudy
+2026-03-07,Raleigh,20.2,77,0.0,15.2,Partly Cloudy
+2026-03-07,San Francisco,15.6,70,0.0,16.3,Partly Cloudy
+2026-03-07,Los Angeles,22.1,68,9.5,20.7,Rain
+2026-03-07,Phoenix,25.7,22,0.0,8.0,Clear
+2026-03-08,Chicago,22.6,48,0.0,12.5,Clear
+2026-03-08,Miami,34.1,48,5.3,24.9,Drizzle
+2026-03-08,Denver,21.5,80,0.0,16.3,Partly Cloudy
+2026-03-08,Seattle,20.5,91,0.0,25.1,Cloudy
+2026-03-08,Raleigh,24.0,80,21.6,11.7,Rain
+2026-03-08,San Francisco,17.6,65,0.0,18.9,Partly Cloudy
+2026-03-08,Los Angeles,22.5,60,0.0,14.7,Partly Cloudy
+2026-03-08,Phoenix,31.4,55,0.0,19.0,Clear
+2026-03-09,Chicago,17.9,59,14.1,7.7,Storm
+2026-03-09,Miami,36.6,43,21.5,12.7,Drizzle
+2026-03-09,Denver,20.8,74,22.6,9.4,Storm
+2026-03-09,Seattle,22.2,43,0.0,3.8,Partly Cloudy
+2026-03-09,Raleigh,12.6,67,2.7,1.0,Drizzle
+2026-03-09,San Francisco,13.3,63,0.0,7.8,Partly Cloudy
+2026-03-09,Los Angeles,24.0,58,0.0,15.8,Clear
+2026-03-09,Phoenix,23.0,32,0.0,8.6,Clear
+2026-03-10,Chicago,18.8,62,0.0,10.6,Partly Cloudy
+2026-03-10,Miami,39.4,49,0.0,10.9,Clear
+2026-03-10,Denver,22.7,58,0.0,6.7,Partly Cloudy
+2026-03-10,Seattle,22.7,61,0.0,6.5,Partly Cloudy
+2026-03-10,Raleigh,17.3,97,0.0,12.7,Cloudy
+2026-03-10,San Francisco,15.8,75,0.0,4.2,Partly Cloudy
+2026-03-10,Los Angeles,21.5,77,0.0,14.7,Partly Cloudy
+2026-03-10,Phoenix,23.1,20,0.0,8.8,Clear
+2026-03-11,Chicago,20.5,80,21.4,12.2,Drizzle
+2026-03-11,Miami,36.9,89,0.0,16.4,Cloudy
+2026-03-11,Denver,20.4,41,20.4,36.0,Storm
+2026-03-11,Seattle,21.7,88,1.5,19.3,Storm
+2026-03-11,Raleigh,13.6,63,0.0,15.1,Partly Cloudy
+2026-03-11,San Francisco,15.5,66,0.0,13.2,Partly Cloudy
+2026-03-11,Los Angeles,20.0,48,0.0,18.3,Clear
+2026-03-11,Phoenix,23.1,29,0.0,17.3,Clear
+2026-03-12,Chicago,21.6,51,18.5,26.5,Storm
+2026-03-12,Miami,36.6,43,0.0,26.9,Partly Cloudy
+2026-03-12,Denver,25.1,78,0.0,11.4,Clear
+2026-03-12,Seattle,21.1,53,0.0,3.1,Partly Cloudy
+2026-03-12,Raleigh,16.0,54,0.0,7.5,Clear
+2026-03-12,San Francisco,15.7,67,0.0,7.6,Partly Cloudy
+2026-03-12,Los Angeles,17.1,63,0.0,17.2,Partly Cloudy
+2026-03-12,Phoenix,25.2,54,9.0,20.2,Rain
+2026-03-13,Chicago,21.7,50,7.9,19.5,Storm
+2026-03-13,Miami,34.5,88,14.5,3.8,Rain
+2026-03-13,Denver,20.1,64,9.7,4.0,Drizzle
+2026-03-13,Seattle,22.9,74,0.0,36.6,Partly Cloudy
+2026-03-13,Raleigh,16.0,65,0.0,11.3,Partly Cloudy
+2026-03-13,San Francisco,18.8,47,0.0,13.0,Clear
+2026-03-13,Los Angeles,21.2,51,0.0,17.9,Clear
+2026-03-13,Phoenix,20.6,48,1.1,13.5,Drizzle
+2026-03-14,Chicago,22.9,86,0.0,36.7,Cloudy
+2026-03-14,Miami,38.5,60,0.0,30.8,Clear
+2026-03-14,Denver,21.9,92,0.0,19.3,Cloudy
+2026-03-14,Seattle,25.7,68,2.2,15.2,Storm
+2026-03-14,Raleigh,9.9,46,0.0,22.7,Clear
+2026-03-14,San Francisco,11.9,79,1.3,19.9,Drizzle
+2026-03-14,Los Angeles,16.4,80,0.0,8.2,Cloudy
+2026-03-14,Phoenix,26.6,53,0.0,12.7,Clear
+2026-03-15,Chicago,17.6,54,0.0,24.7,Partly Cloudy
+2026-03-15,Miami,38.1,69,0.0,10.0,Cloudy
+2026-03-15,Denver,24.5,43,0.0,36.4,Partly Cloudy
+2026-03-15,Seattle,21.1,57,24.0,4.0,Drizzle
+2026-03-15,Raleigh,21.8,84,6.7,13.4,Drizzle
+2026-03-15,San Francisco,16.3,84,0.0,10.5,Cloudy
+2026-03-15,Los Angeles,9.6,64,0.0,6.4,Partly Cloudy
+2026-03-15,Phoenix,19.7,53,0.0,14.7,Clear
+2026-03-16,Chicago,21.7,46,14.7,30.9,Drizzle
+2026-03-16,Miami,35.8,73,0.0,18.2,Cloudy
+2026-03-16,Denver,20.6,50,0.0,4.8,Clear
+2026-03-16,Seattle,25.8,93,0.0,20.6,Clear
+2026-03-16,Raleigh,11.4,73,0.0,12.7,Partly Cloudy
+2026-03-16,San Francisco,14.6,78,0.0,14.6,Partly Cloudy
+2026-03-16,Los Angeles,17.3,57,0.0,14.8,Clear
+2026-03-16,Phoenix,28.1,34,0.0,9.4,Clear
+2026-03-17,Chicago,19.5,41,0.0,8.7,Clear
+2026-03-17,Miami,40.0,80,14.7,33.6,Storm
+2026-03-17,Denver,21.3,57,2.6,6.1,Drizzle
+2026-03-17,Seattle,20.9,75,0.0,5.3,Clear
+2026-03-17,Raleigh,14.9,80,0.0,7.9,Cloudy
+2026-03-17,San Francisco,11.2,86,0.0,8.2,Cloudy
+2026-03-17,Los Angeles,18.7,54,0.0,14.5,Clear
+2026-03-17,Phoenix,23.9,40,7.1,6.6,Rain
+2026-03-18,Chicago,19.9,52,0.0,14.1,Cloudy
+2026-03-18,Miami,38.4,41,23.4,24.7,Drizzle
+2026-03-18,Denver,22.7,50,0.0,32.6,Cloudy
+2026-03-18,Seattle,20.7,93,0.0,12.4,Partly Cloudy
+2026-03-18,Raleigh,24.7,73,0.0,23.2,Partly Cloudy
+2026-03-18,San Francisco,12.0,78,0.0,21.6,Partly Cloudy
+2026-03-18,Los Angeles,19.6,68,0.0,14.6,Partly Cloudy
+2026-03-18,Phoenix,18.0,30,0.0,17.8,Clear
+2026-03-19,Chicago,18.0,52,12.9,12.8,Rain
+2026-03-19,Miami,37.9,60,15.8,18.7,Rain
+2026-03-19,Denver,23.1,42,0.0,26.8,Cloudy
+2026-03-19,Seattle,25.3,44,0.0,13.9,Clear
+2026-03-19,Raleigh,15.2,55,0.0,6.4,Clear
+2026-03-19,San Francisco,12.5,69,0.0,6.8,Partly Cloudy
+2026-03-19,Los Angeles,19.3,70,0.0,11.8,Partly Cloudy
+2026-03-19,Phoenix,21.1,36,0.0,22.0,Clear
+2026-03-20,Chicago,18.1,46,23.2,25.3,Storm
+2026-03-20,Miami,39.1,56,0.0,4.9,Clear
+2026-03-20,Denver,21.3,83,0.0,21.3,Clear
+2026-03-20,Seattle,21.5,77,18.1,8.7,Drizzle
+2026-03-20,Raleigh,22.3,48,0.0,13.5,Clear
+2026-03-20,San Francisco,11.2,90,0.0,17.1,Cloudy
+2026-03-20,Los Angeles,17.2,70,0.0,13.2,Partly Cloudy
+2026-03-20,Phoenix,25.0,20,9.1,4.7,Rain
+2026-03-21,Chicago,22.0,93,2.7,16.8,Drizzle
+2026-03-21,Miami,39.7,71,15.6,19.3,Storm
+2026-03-21,Denver,22.7,43,0.0,31.6,Cloudy
+2026-03-21,Seattle,22.5,75,0.0,10.0,Partly Cloudy
+2026-03-21,Raleigh,16.7,68,0.0,17.2,Partly Cloudy
+2026-03-21,San Francisco,10.5,75,0.0,13.3,Partly Cloudy
+2026-03-21,Los Angeles,18.2,49,0.0,8.9,Clear
+2026-03-21,Phoenix,26.7,22,0.0,4.2,Clear
+2026-03-22,Chicago,19.0,81,0.0,33.8,Clear
+2026-03-22,Miami,37.3,48,0.0,32.0,Clear
+2026-03-22,Denver,22.4,65,10.5,8.6,Rain
+2026-03-22,Seattle,25.3,52,0.0,5.7,Partly Cloudy
+2026-03-22,Raleigh,17.7,56,0.0,12.8,Clear
+2026-03-22,San Francisco,15.7,91,0.0,20.5,Cloudy
+2026-03-22,Los Angeles,17.1,82,0.0,16.2,Cloudy
+2026-03-22,Phoenix,25.5,31,0.0,19.5,Clear
+2026-03-23,Chicago,21.0,73,0.0,27.5,Partly Cloudy
+2026-03-23,Miami,40.0,55,0.0,16.7,Cloudy
+2026-03-23,Denver,21.4,66,0.0,17.3,Clear
+2026-03-23,Seattle,21.5,84,18.5,8.4,Rain
+2026-03-23,Raleigh,11.2,56,0.0,13.3,Clear
+2026-03-23,San Francisco,14.9,92,0.0,21.9,Cloudy
+2026-03-23,Los Angeles,17.2,50,0.0,10.7,Clear
+2026-03-23,Phoenix,26.3,41,0.0,5.5,Clear
+2026-03-24,Chicago,20.8,89,0.0,4.2,Partly Cloudy
+2026-03-24,Miami,39.9,44,17.9,6.8,Drizzle
+2026-03-24,Denver,23.5,69,0.0,25.0,Partly Cloudy
+2026-03-24,Seattle,21.1,67,0.0,14.5,Clear
+2026-03-24,Raleigh,22.0,80,0.0,13.7,Cloudy
+2026-03-24,San Francisco,16.9,50,0.0,16.9,Clear
+2026-03-24,Los Angeles,19.6,61,0.0,1.0,Partly Cloudy
+2026-03-24,Phoenix,25.3,26,0.0,14.4,Clear
+2026-03-25,Chicago,20.2,63,0.0,7.1,Clear
+2026-03-25,Miami,40.8,44,23.6,23.5,Drizzle
+2026-03-25,Denver,20.8,79,0.0,29.4,Cloudy
+2026-03-25,Seattle,24.3,75,0.0,28.0,Clear
+2026-03-25,Raleigh,22.5,85,19.6,23.7,Storm
+2026-03-25,San Francisco,12.2,68,0.0,13.5,Partly Cloudy
+2026-03-25,Los Angeles,20.3,82,0.0,18.8,Cloudy
+2026-03-25,Phoenix,23.5,32,0.0,14.0,Clear
+2026-03-26,Chicago,20.3,80,0.0,4.5,Clear
+2026-03-26,Miami,40.8,59,0.0,5.6,Cloudy
+2026-03-26,Denver,22.9,77,1.3,12.7,Storm
+2026-03-26,Seattle,25.5,70,0.0,34.8,Clear
+2026-03-26,Raleigh,18.5,73,0.0,14.0,Partly Cloudy
+2026-03-26,San Francisco,14.7,78,0.0,14.1,Partly Cloudy
+2026-03-26,Los Angeles,19.1,76,0.0,9.1,Partly Cloudy
+2026-03-26,Phoenix,33.1,52,0.0,16.1,Clear
+2026-03-27,Chicago,20.7,78,0.0,17.6,Cloudy
+2026-03-27,Miami,40.7,45,22.4,18.9,Storm
+2026-03-27,Denver,23.1,48,23.1,31.2,Drizzle
+2026-03-27,Seattle,21.4,70,0.0,7.6,Cloudy
+2026-03-27,Raleigh,22.5,71,21.6,9.4,Drizzle
+2026-03-27,San Francisco,16.7,70,0.0,9.3,Partly Cloudy
+2026-03-27,Los Angeles,18.6,48,0.0,18.8,Clear
+2026-03-27,Phoenix,24.0,40,0.0,10.5,Clear
+2026-03-28,Chicago,18.4,62,0.0,4.7,Cloudy
+2026-03-28,Miami,36.8,57,0.0,3.4,Partly Cloudy
+2026-03-28,Denver,24.1,42,0.0,19.7,Cloudy
+2026-03-28,Seattle,21.6,86,0.0,17.3,Clear
+2026-03-28,Raleigh,21.2,96,17.4,20.9,Rain
+2026-03-28,San Francisco,17.1,71,0.0,17.9,Partly Cloudy
+2026-03-28,Los Angeles,17.9,47,0.0,16.9,Clear
+2026-03-28,Phoenix,22.5,31,0.0,14.5,Clear
+2026-03-29,Chicago,20.8,78,0.0,26.8,Clear
+2026-03-29,Miami,40.3,95,0.0,3.8,Cloudy
+2026-03-29,Denver,21.9,84,0.0,31.8,Clear
+2026-03-29,Seattle,23.1,62,0.0,3.6,Cloudy
+2026-03-29,Raleigh,13.9,65,0.0,2.9,Partly Cloudy
+2026-03-29,San Francisco,14.1,82,0.0,12.2,Cloudy
+2026-03-29,Los Angeles,15.0,38,0.0,4.7,Clear
+2026-03-29,Phoenix,28.0,44,0.0,14.0,Clear
+2026-03-30,Chicago,19.9,77,2.8,20.4,Drizzle
+2026-03-30,Miami,36.1,90,6.5,18.8,Storm
+2026-03-30,Denver,21.1,45,0.2,33.0,Storm
+2026-03-30,Seattle,23.4,69,20.8,26.0,Storm
+2026-03-30,Raleigh,15.9,60,0.0,9.4,Partly Cloudy
+2026-03-30,San Francisco,14.7,77,0.0,16.9,Partly Cloudy
+2026-03-30,Los Angeles,16.1,61,0.0,10.8,Partly Cloudy
+2026-03-30,Phoenix,28.1,35,0.0,15.6,Clear
+2026-03-31,Chicago,21.7,59,0.0,23.7,Cloudy
+2026-03-31,Miami,38.5,94,21.2,6.4,Storm
+2026-03-31,Denver,21.8,45,2.8,29.8,Rain
+2026-03-31,Seattle,24.7,48,1.4,6.1,Rain
+2026-03-31,Raleigh,21.2,44,0.0,10.8,Clear
+2026-03-31,San Francisco,12.4,73,0.0,8.1,Partly Cloudy
+2026-03-31,Los Angeles,21.0,59,0.0,26.2,Clear
+2026-03-31,Phoenix,23.8,20,0.0,18.1,Clear
+2026-04-01,Chicago,22.3,60,3.7,10.9,Drizzle
+2026-04-01,Miami,38.1,78,0.0,36.5,Partly Cloudy
+2026-04-01,Denver,22.6,86,10.0,24.8,Drizzle
+2026-04-01,Seattle,23.9,92,0.0,21.9,Clear
+2026-04-01,Raleigh,23.1,63,0.0,18.4,Partly Cloudy
+2026-04-01,San Francisco,14.5,74,0.0,10.0,Partly Cloudy
+2026-04-01,Los Angeles,17.0,66,0.0,8.6,Partly Cloudy
+2026-04-01,Phoenix,21.9,20,0.0,18.7,Clear
+2026-04-02,Chicago,23.2,76,12.1,28.3,Rain
+2026-04-02,Miami,39.4,56,0.0,19.6,Clear
+2026-04-02,Raleigh,21.0,71,0.0,14.4,Partly Cloudy
+2026-04-02,San Francisco,14.3,64,0.0,12.8,Partly Cloudy
+2026-04-02,Los Angeles,20.3,56,0.0,10.3,Clear
+2026-04-02,Phoenix,25.6,27,0.0,23.9,Clear
